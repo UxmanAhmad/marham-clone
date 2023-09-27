@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fd3e1577.css",
-    "main.js": "/static/js/main.93194245.js",
+    "main.js": "/static/js/main.b8807d36.js",
     "static/media/hands-unrecogniza.png": "/static/media/hands-unrecogniza.daca9240ca6a42296457.png",
     "static/media/surgeries.png": "/static/media/surgeries.a3fd87771a7de554f4e0.png",
     "static/media/waight-loss-man.png": "/static/media/waight-loss-man.d2ed9b6b4eb674459163.png",
@@ -11,10 +11,10 @@
     "static/media/blogs.png": "/static/media/blogs.b02a90f54718737cc87d.png",
     "index.html": "/index.html",
     "main.fd3e1577.css.map": "/static/css/main.fd3e1577.css.map",
-    "main.93194245.js.map": "/static/js/main.93194245.js.map"
+    "main.b8807d36.js.map": "/static/js/main.b8807d36.js.map"
   },
   "entrypoints": [
     "static/css/main.fd3e1577.css",
-    "static/js/main.93194245.js"
+    "static/js/main.b8807d36.js"
   ]
 }
